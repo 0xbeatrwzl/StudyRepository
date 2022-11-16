@@ -1,11 +1,11 @@
 <h4>
   <a href="https://github.com/0xbeatrwzl?tab=repositories">ᐊ</a>
-  <a href="https://github.com/0xbeatrwzl/.StudyRepository">⭯</a>
+  <a href="https://github.com/0xbeatrwzl/StudyRepository">⭯</a>
   ᐅ ￨ 0xbeatrwzl/StudyRepository/
 </h4>
 
 <div align=center>
-  <h2> Study Repository</h2>
+  <h2>Study Repository</h2>
 </div>
 
 <div align=center>
@@ -13,5 +13,5 @@
 </div>
 
 <div align=center>
-  <h5>Courses • Books • Personal </h3>
+  <h5>Courses • Books • Personal</h3>
 </div>
