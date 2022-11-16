@@ -5,9 +5,13 @@
 </h4>
 
 <div align=center>
-  <h2> Study Repository
+  <h2> Study Repository</h2>
 </div>
 
 <div align=center>
-  <h6> Study and for-fun projects and activities
+  <h6>Study and for-fun projects and activities</h6>
+</div>
+
+<div align=center>
+  <h5>Courses • Books • Personal </h3>
 </div>
