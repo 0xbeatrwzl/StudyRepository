@@ -1,6 +1,6 @@
 <h4>
   <a href="https://github.com/0xbeatrwzl/StudyRepository">ᐊ</a>
-  <a href="https://github.com/0xbeatrwzl/StudyRepository/CRS">⭯</a>
+  <a href="https://github.com/0xbeatrwzl/StudyRepository/tree/main/CRS">⭯</a>
   ᐅ ￨ 0xbeatrwzl/StudyRepository/CRS/
 </h4>
 
@@ -13,5 +13,5 @@
 </div>
 
 <div align=center>
-  <h5>Courses • Books • Personal </h3>
+  <h5>Courses • Books • Personal</h3>
 </div>
