@@ -1,7 +1,7 @@
 <h4>
   <a href="https://github.com/0xbeatrwzl/StudyRepository">ᐊ</a>
   <a href="https://github.com/0xbeatrwzl/StudyRepository/tree/main/PER">⭯</a>
-  ᐅ • 0xbeatrwzl/StudyRepository/PER/
+  ᐅ ￨ 0xbeatrwzl/StudyRepository/PER/
 </h4>
 
 <div align=center>
