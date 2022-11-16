@@ -13,5 +13,5 @@
 </div>
 
 <div align=center>
-  <h5>Courses • Books • Personal</h3>
+  <h5>Courses (CRS) • Books (BKS) • Personal (PER)</h3>
 </div>
