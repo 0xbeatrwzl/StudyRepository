@@ -1,8 +1,9 @@
-<h3>
+<h4>
   <a href="https://github.com/0xbeatrwzl?tab=repositories">ᐊ</a>
   <a href="https://github.com/0xbeatrwzl/.StudyRepository">⭯</a>
-  ᐅ
-</h3>
+  ᐅ ￨ 0xbeatrwzl/.StudyRepository/
+</h4>
+
 <div align=center>
   <h2> Study Repository
 </div>
