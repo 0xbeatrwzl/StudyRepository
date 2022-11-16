@@ -13,5 +13,5 @@
 </div>
 
 <div align=center>
-  <h5><a href="https://github.com/0xbeatrwzl/StudyRepository/tree/main/CRS">Courses (CRS)</a> • <a href="https://github.com/0xbeatrwzl/StudyRepository/tree/main/BKS">Books (BKS)</a> • <a href="https://github.com/0xbeatrwzl/StudyRepository/tree/main/PER">Personal (PER)</a></h3>
+  <h5><a href="https://github.com/0xbeatrwzl/StudyRepository/tree/main/BKS">Books (BKS)</a> • <a href="https://github.com/0xbeatrwzl/StudyRepository/tree/main/CRS">Courses (CRS)</a> • <a href="https://github.com/0xbeatrwzl/StudyRepository/tree/main/PER">Personal (PER)</a></h3>
 </div>
