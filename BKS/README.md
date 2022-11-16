@@ -1,7 +1,7 @@
 <h4>
   <a href="https://github.com/0xbeatrwzl/StudyRepository">ᐊ</a>
   <a href="https://github.com/0xbeatrwzl/StudyRepository/tree/main/BKS">⭯</a>
-  ᐅ ￨ 0xbeatrwzl/StudyRepository/BKS/
+  ᐅ 『 0xbeatrwzl/StudyRepository/BKS/ 』
 </h4>
 
 <div align=center>
@@ -9,9 +9,9 @@
 </div>
 
 <div align=center>
-  <h6>Books projects and activities</h6>
+  <h6>Book projects and activities</h6>
 </div>
 
 <div align=center>
-  <h5>Courses • Books • Personal</h3>
+  <h5>Empty yet</h3>
 </div>
